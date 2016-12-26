@@ -55,6 +55,7 @@ describe('Pomodoro', function () {
   });
 
   context('long rest object', function () {
+    
     var duration = 2;
 
     it('should have a duration of 25 min', function () {
