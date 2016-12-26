@@ -1,4 +1,5 @@
 'use strict';
+
 const assert = require('assert');
 
 describe('Welcome page, button functionality', function () {
