@@ -1,6 +1,6 @@
 # Pomodoro App
 
-[Use the live app here!] (https://kccrs.github.io/pomodoro-app/)
+[Use the live app here!](https://kccrs.github.io/pomodoro-app/)
 
 ## Installation
 
